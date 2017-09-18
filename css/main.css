@@ -1,0 +1,27 @@
+#index-main {
+    background: url(../images/bg.jpg) no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+#index-main .transparent {
+    background-color: rgba(255,255,255, 0.3);
+    width: 100%;
+    height: 100%;
+}
+#index-main .content {
+    color: #fff;
+    text-transform: uppercase;
+    margin-top: 40vh;
+}
+#index-main .content h1 {
+    margin-bottom: 50px;
+    font-family: 'Bungee Inline', cursive;
+}
+#index-main .content a {
+    color: #fff;
+    padding: 10px 50px;
+    border: 2px solid #fff;
+    font-size: 1.7em;
+    font-weight: bold;
+}
